@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://koushikbs:koushik%40407@cluster1.2xhj5.mongodb.net/student_management?retryWrites=true&w=majority&appName=Cluster1
+      database : students
